@@ -38,3 +38,7 @@ A vibrant color scheme to make you feel good, so you're more productive with bea
 * [zsh](https://github.com/neko-night/oh-my-zsh)
 * [bash](https://github.com/neko-night/oh-my-bash)
 * [oh my posh](https://github.com/neko-night/oh-my-posh)
+
+##### Browsers
+
+* [chrome](https://github.com/neko-night/chrome)
