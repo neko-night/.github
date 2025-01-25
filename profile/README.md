@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/neko-night/">
-    <img src="https://avatars.githubusercontent.com/u/177785156?s=200&v=4">
+    <img src="https://github.com/neko-night/.github/blob/main/logo.jpg?raw=true">
   </a>
   <br>
   🏙 Nekonight
