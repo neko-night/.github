@@ -25,6 +25,7 @@ A vibrant color scheme to make you feel good, so you're more productive with bea
 * [emacs](https://github.com/neko-night/emacs)
 * [sublime](https://github.com/neko-night/sublime)
 * [vscode](https://github.com/neko-night/vscode)
+* [helix](https://github.com/neko-night/helix)
 
 ##### Terminal emulators 
 
